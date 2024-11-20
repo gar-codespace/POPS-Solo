@@ -1,0 +1,66 @@
+{
+    "B": {
+        "type": "Baggage",
+        "description": "Baggage or Baggage Express"
+    },
+    "C": {
+        "type": "Coach",
+        "description": "Coach, Chair or Parlor. Carrier or privately owned"
+    },
+    "D": {
+        "type": "Dining",
+        "description": "Dining, Cafe, or Club"
+    },
+    "E": {
+        "type": "Engine",
+        "description": "Locomotive, All motive power"
+    },
+    "F": {
+        "type": "Flat",
+        "description": null
+    },
+    "G": {
+        "type": "Gondola",
+        "description": null
+    },
+    "H": {
+        "type": "Hopper",
+        "description": "Hopper or Covered Hopper"
+    },
+    "I": {
+        "type": "Interurban",
+        "description": "Self propelled passenger"
+    },
+    "L": {
+        "type": "Stock",
+        "description": "All Livestock"
+    },
+    "M": {
+        "type": "Maintenance of Way",
+        "description": "All Non Revenue"
+    },
+    "N": {
+        "type": "Caboose",
+        "description": "Caboose, Crew or Cabin Car"
+    },
+    "P": {
+        "type": "Postal",
+        "description": "All mail handling"
+    },
+    "R": {
+        "type": "Refrigerator",
+        "description": null
+    },
+    "S": {
+        "type": "Sleeping",
+        "description": "Carrier or privately owned"
+    },
+    "T": {
+        "type": "Tank",
+        "description": null
+    },
+    "X": {
+        "type": "Box",
+        "description": null
+    }
+}

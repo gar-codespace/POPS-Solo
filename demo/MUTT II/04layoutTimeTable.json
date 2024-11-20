@@ -1,0 +1,14 @@
+{
+    "1": {
+        "trainSymbol": "Y01",
+        "trainName": "Basin Street Flyer",
+        "capacity": 11,
+        "routeSegments": [
+            null,
+            "1",
+            null
+        ],
+        "status": 0,
+        "trainConsist": null
+    }
+}

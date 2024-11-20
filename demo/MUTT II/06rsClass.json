@@ -1,0 +1,87 @@
+{
+    "ESS": {
+        "type": "E",
+        "class": "Yard",
+        "description": "Light Yard Switcher"
+    },
+    "ND2": {
+        "type": "N",
+        "class": "Local",
+        "description": "4 Wheel, 20'"
+    },
+    "BX5": {
+        "type": "B",
+        "class": "Express",
+        "description": "50' Baggage Express"
+    },
+    "FG3": {
+        "type": "F",
+        "class": "General",
+        "description": "36' General Service"
+    },
+    "FG4": {
+        "type": "F",
+        "class": "General",
+        "description": "40' General Service"
+    },
+    "GG3": {
+        "type": "G",
+        "class": "General",
+        "description": "36' General Service"
+    },
+    "GG4": {
+        "type": "G",
+        "class": "General",
+        "description": "40' General Service"
+    },
+    "GD3": {
+        "type": "G",
+        "class": "Drop Bottom",
+        "description": "36' Drop Bottom"
+    },
+    "XG3": {
+        "type": "X",
+        "class": "General",
+        "description": "36' General Service"
+    },
+    "XG4": {
+        "type": "X",
+        "class": "General",
+        "description": "40' General Service"
+    },
+    "XV3": {
+        "type": "X",
+        "class": "Ventilated",
+        "description": "36' Ventilated"
+    },
+    "XV4": {
+        "type": "X",
+        "class": "Ventilated",
+        "description": "40' Ventilated"
+    },
+    "XP3": {
+        "type": "X",
+        "class": "Produce",
+        "description": "36' Produce"
+    },
+    "RB3": {
+        "type": "R",
+        "class": "Bunker",
+        "description": "36' Ice"
+    },
+    "RB4": {
+        "type": "R",
+        "class": "Bunker",
+        "description": "40' Ice"
+    },
+    "RB5": {
+        "type": "R",
+        "class": "Bunker",
+        "description": "50' Ice"
+    },
+    "TP3": {
+        "type": "T",
+        "class": "Petrolium",
+        "description": "36' Petrolium"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "1": {
+        "station": null,
+        "pu": []
+    },
+    "2": {
+        "station": null,
+        "pu": [],
+        "so": []
+    },
+    "3": {
+        "station": null,
+        "so": null
+    }
+}

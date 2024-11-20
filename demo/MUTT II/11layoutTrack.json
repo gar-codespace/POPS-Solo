@@ -1,0 +1,124 @@
+{
+    "2": {
+        "station": "Basin Street",
+        "name": "Basin Street Stores",
+        "number": "S",
+        "type": 0,
+        "length": 270,
+        "inventory": [
+            "NYC 7582",
+            "FGEX 1596",
+            "FGEX 1040",
+            "FGEX 8058",
+            "PRR 1719",
+            "LV 6584"
+        ],
+        "receive": [],
+        "ship": [
+            "Coffee Sacks",
+            "Produce",
+            "Foodstuffs"
+        ]
+    },
+    "4": {
+        "station": "Basin Street",
+        "name": "Basin Street Wharf",
+        "number": "W",
+        "type": 0,
+        "length": 110,
+        "inventory": [
+            "ACL 2474"
+        ],
+        "receive": [
+            "Boiler2",
+            "Tank"
+        ],
+        "ship": []
+    },
+    "3": {
+        "station": "Basin Street",
+        "name": "Bulk Material Wharf",
+        "number": "B",
+        "type": 0,
+        "length": 150,
+        "inventory": [
+            "B&A 2837",
+            "NYNH&H 6274"
+        ],
+        "receive": [],
+        "ship": [
+            "Gravel"
+        ]
+    },
+    "9": {
+        "station": "Basin Street",
+        "name": "Heating Oil Depot",
+        "number": "F",
+        "type": 0,
+        "length": 70,
+        "inventory": [
+            "UTLX 5968"
+        ],
+        "receive": [],
+        "ship": [
+            "Heating Oil",
+            "Kerosene"
+        ]
+    },
+    "7": {
+        "station": "Basin Street",
+        "name": "Adams Express",
+        "number": "X",
+        "type": 0,
+        "length": 70,
+        "inventory": [
+            "PRR 6544"
+        ],
+        "receive": [
+            "Express"
+        ],
+        "ship": [
+            "Express"
+        ]
+    },
+    "8": {
+        "station": "Basin Street",
+        "name": "Mother Schuckers Öyster Haüs",
+        "number": "O",
+        "type": 0,
+        "length": 150,
+        "inventory": [
+            "FGEX 0326",
+            "PRR 3755",
+            "FGEX 4200"
+        ],
+        "receive": [],
+        "ship": [
+            "Live Oysters",
+            "Canned Oysters"
+        ]
+    },
+    "1": {
+        "station": "Basin Street",
+        "name": "4th Street Pier",
+        "number": "P",
+        "type": 0,
+        "length": 430,
+        "inventory": [
+            "DL&W 8059",
+            "CS 0355",
+            "PL 8124",
+            "PRR 4881",
+            "PL 5513",
+            "WJ&S 2004",
+            "DL&W 2298",
+            "PRR 7302"
+        ],
+        "receive": [],
+        "ship": [
+            "Barrels",
+            "Break Bulk",
+            "Lumber"
+        ]
+    }
+}

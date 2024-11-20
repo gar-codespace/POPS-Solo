@@ -1,0 +1,43 @@
+Engine AAR;ESS;;;;;;
+Caboose AAR;NPD;;;;;;
+MOW AAR;M MWB MWC MWD MWG MWF MWK MWR MWX;;;;;;
+Passenger AAR;P;;;;;;
+Express AAR;Bd Bdr;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+ACL 2474;PRR Fk;FP3;Basin St;Basin St Wharf;Empty;;48
+UTLX 5968;Union Tank;TPO;Basin St;Heating Oil Depot;Empty;;14
+PRR 7302;PRR Xl;XP3;Basin St;4th Street Pier;Empty;;43
+DL&W 2298;PRR Xl;XP3;Basin St;4th Street Pier;Empty;;4
+WJ&S 2004;PRR Xl;XP3;Basin St;4th Street Pier;Empty;;42
+PL 5513;PRR Xg;XP3;Basin St;4th Street Pier;Empty;;47
+PRR 4881;PRR Xg;XP3;Basin St;4th Street Pier;Empty;;18
+B&A 2837;PRR Gi;GD3;Basin St;Bulk Material Wharf;Empty;;15
+NYNH&H 6274;PRR Gr;GP3;Basin St;Bulk Material Wharf;Empty;;27
+FGEX 0326;PRR Rf;RP3;Basin St;Mother Schuckers;Empty;;31
+PRR 3755;Bdr;RX5;Basin St;Mother Schuckers;Empty;;6
+FGEX 4200;PRR Rf;RP3;Basin St;Mother Schuckers;Empty;;25
+NYC 7582;PRR Xl;XP3;Basin St;Basin St Stores;Empty;;46
+FGEX 1596;PRR Rf;RP3;Basin St;Basin St Stores;Empty;;26
+FGEX 1040;PRR Rf;RP3;Basin St;Basin St Stores;Empty;;57
+PRR 345;A4;ESS;Way Line;Basin Street;unloadable;;62
+FGEX 1558;PRR Rf;RP3;Way Line;Basin Street;Empty;;56
+CS 2467;PRR Xl;XP3;Way Line;Basin Street;Empty;;59
+B&A 7695;PRR Xl;XP3;Way Line;Basin Street;Empty;;3
+PRR 7152;Bd;XB5;Way Line;Basin Street;Empty;;24
+PL 8900;PRR Xl Vent;XV3;Way Line;Basin Street;Empty;;22
+PRR 3607;PRR X23;XP4;Way Line;Basin Street;Empty;;39
+NYNH&H 1367;PRR Gr;GP3;Way Line;Basin Street;Empty;;61
+CNJ 7069;PRR Gr;GP3;Way Line;Basin Street;Empty;;17
+PRR 5525;PRR Xl;XP3;Way Line;Basin Street;Empty;;20
+CS 3851;PRR X23;XP4;Way Line;Basin Street;Empty;;21
+NYC 4232;PRR Fk;FP3;Way Line;Basin Street;Empty;;12
+PRR 829;PRR Nd;NM;Way Line;Basin Street;Empty;;29
+PRR 6544;Bd;XB5;Basin St;Adams Express;Empty;;19
+FGEX 8058;PRR Rf;RP3;Basin St;Basin St Stores;Empty;;28
+PRR 1719;PRR Xm;XF3;Basin St;Basin St Stores;Empty;;2
+LV 6584;PRR Xg;XP3;Basin St;Basin St Stores;Empty;;36
+PL 8124;PRR Gi;GD3;Basin St;4th Street Pier;Empty;;16
+CS 0355;PRR Fm;FP4;Basin St;4th Street Pier;Empty;;13
+DL&W 8059;PRR Fm;FP4;Basin St;4th Street Pier;Empty;;54

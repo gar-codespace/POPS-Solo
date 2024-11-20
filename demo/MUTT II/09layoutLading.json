@@ -1,0 +1,147 @@
+{
+    "Empty": {
+        "loadType": "e",
+        "specialHandling": 0,
+        "service": [
+            "BX5",
+            "FG3",
+            "FG4",
+            "GG3",
+            "GG4",
+            "GD3",
+            "RB3",
+            "RB4",
+            "RB5",
+            "XG3",
+            "XG4",
+            "XP3",
+            "XV3"
+        ]
+    },
+    "Iced": {
+        "loadType": "e",
+        "specialHandling": 2,
+        "service": [
+            "RB3",
+            "RB4",
+            "RB5"
+        ]
+    },
+    "Reiced": {
+        "loadType": "l",
+        "specialHandling": 2,
+        "service": [
+            "RB3",
+            "RB4",
+            "RB5"
+        ]
+    },
+    "Barrels": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "GP3",
+            "GP4"
+        ]
+    },
+    "Break Bulk": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "XG3",
+            "XG4"
+        ]
+    },
+    "Lumber": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "GP3",
+            "GP4",
+            "FG3",
+            "FG4"
+        ]
+    },
+    "Express": {
+        "loadType": "l",
+        "specialHandling": 1,
+        "service": [
+            "BX5"
+        ]
+    },
+    "Foodstuffs": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "XG3",
+            "XG4"
+        ]
+    },
+    "Produce": {
+        "loadType": "l",
+        "specialHandling": 2,
+        "service": [
+            "RB3",
+            "RB5",
+            "XV3",
+            "XP3"
+        ]
+    },
+    "Boiler2": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "FG4",
+            "FG3"
+        ]
+    },
+    "Tank": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "GD3",
+            "FG4",
+            "FG3",
+            "GG3"
+        ]
+    },
+    "Gravel": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "GG3",
+            "GD3"
+        ]
+    },
+    "Heating Oil": {
+        "loadType": "l",
+        "specialHandling": 6,
+        "service": [
+            "TP3"
+        ]
+    },
+    "Kerosene": {
+        "loadType": "l",
+        "specialHandling": 6,
+        "service": [
+            "TP3"
+        ]
+    },
+    "Canned Oysters": {
+        "loadType": "l",
+        "specialHandling": 0,
+        "service": [
+            "XG3",
+            "XG4"
+        ]
+    },
+    "Live Oysters": {
+        "loadType": "l",
+        "specialHandling": 2,
+        "service": [
+            "RB5",
+            "RB3",
+            "XV3"
+        ]
+    }
+}

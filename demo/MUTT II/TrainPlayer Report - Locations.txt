@@ -1,0 +1,13 @@
+11/17/2024-10:30:29;MUTT II;;;;
+Metropolitan Harbor Railroad;Metropolitan Union Transfer Terminal;West Pier District;1915;;HO
+;;;;;
+;;;;;
+;;;;;
+6;Way Line;Basin Street;WL;staging;19
+1;Basin St;4th Street Pier;P;industry;20
+3;Basin St;Bulk Material Wharf;B;industry;3
+4;Basin St;Basin St Wharf;W;industry;2
+8;Basin St;Mother Schuckers;O;industry;3
+2;Basin St;Basin St Stores;S;industry;8
+7;Basin St;Adams Express;X;industry;1
+9;Basin St;Heating Oil Depot;F;industry;1
