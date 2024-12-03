@@ -1,6 +1,7 @@
 {
     "Empty": {
         "loadType": "e",
+        "description": "All cars that can have an empty status",
         "specialHandling": 0,
         "service": [
             "BX5",
@@ -20,6 +21,7 @@
     },
     "Iced": {
         "loadType": "e",
+        "description": "Iced before loading",
         "specialHandling": 2,
         "service": [
             "RB3",
@@ -29,6 +31,7 @@
     },
     "Reiced": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 2,
         "service": [
             "RB3",
@@ -38,6 +41,7 @@
     },
     "Barrels": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "GP3",
@@ -46,6 +50,7 @@
     },
     "Break Bulk": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "XG3",
@@ -54,6 +59,7 @@
     },
     "Lumber": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "GP3",
@@ -64,6 +70,7 @@
     },
     "Express": {
         "loadType": "l",
+        "description": "Merchandise not requiring attendant",
         "specialHandling": 1,
         "service": [
             "BX5"
@@ -71,6 +78,7 @@
     },
     "Foodstuffs": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "XG3",
@@ -79,6 +87,7 @@
     },
     "Produce": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 2,
         "service": [
             "RB3",
@@ -89,6 +98,7 @@
     },
     "Boiler2": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "FG4",
@@ -97,7 +107,8 @@
     },
     "Tank": {
         "loadType": "l",
-        "specialHandling": 0,
+        "description": "Large steel tank requires bracing",
+        "specialHandling": 9,
         "service": [
             "GD3",
             "FG4",
@@ -107,6 +118,7 @@
     },
     "Gravel": {
         "loadType": "l",
+        "description": "Roadway and underlayment",
         "specialHandling": 0,
         "service": [
             "GG3",
@@ -115,6 +127,7 @@
     },
     "Heating Oil": {
         "loadType": "l",
+        "description": "Residential and business grade",
         "specialHandling": 6,
         "service": [
             "TP3"
@@ -122,6 +135,7 @@
     },
     "Kerosene": {
         "loadType": "l",
+        "description": "Oil lamp grade smokeless",
         "specialHandling": 6,
         "service": [
             "TP3"
@@ -129,6 +143,7 @@
     },
     "Canned Oysters": {
         "loadType": "l",
+        "description": null,
         "specialHandling": 0,
         "service": [
             "XG3",
@@ -137,6 +152,7 @@
     },
     "Live Oysters": {
         "loadType": "l",
+        "description": "Set within iced boxes",
         "specialHandling": 2,
         "service": [
             "RB5",
